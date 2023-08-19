@@ -1,1 +1,1 @@
-# Cookie-Stand-Admin
+# Cookie-Stand-Admin-v2
